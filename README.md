@@ -4,6 +4,9 @@ usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
            [--super-prefix=<path>] [--config-env=<name>=<envvar>]
            <command> [<args>]
+![Image 1](https://github.com/Sushant876/Covid19-dashboard/blob/main/Images/Screenshot%20(18).png?raw=true)
+
+
 
 These are common Git commands used in various situations:
 
